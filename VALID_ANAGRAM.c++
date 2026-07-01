@@ -7,10 +7,10 @@ int main()
 {
     string s,t;
 
-    cout << "Enter first string: ";
+    cout << "Enter the first string: ";
     getline(cin,s);
 
-    cout << "Enter second string: ";
+    cout << "Enter the second string: ";
     getline(cin,t);
 
     bool condition = false;
